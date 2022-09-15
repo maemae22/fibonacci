@@ -4,3 +4,5 @@ In mathematics, the Fibonacci numbers, commonly denoted Fn , form a sequence, 
 ## What is fibonacci number
 The Fibonacci numbers were first described in Indian mathematics,[2][3][4] as early as 200 BC in work by Pingala on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths.
 
+## fibonacci sequence formula
+ Fn = Fn-1 + Fn-2
